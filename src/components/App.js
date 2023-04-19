@@ -11,8 +11,10 @@ function App() {
   return (
     <div>
       <NavBar />
-      <Home />
-      <About />
+      <Home name= "Liza" city="New York"/>
+      <About  
+      />
+
     </div>
   );
 }
